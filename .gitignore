@@ -1,0 +1,7 @@
+/target
+corpus_json
+fuzz
+
+json_test*
+*.zip
+*.json
